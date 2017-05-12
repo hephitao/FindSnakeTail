@@ -2,7 +2,6 @@
 a simple web for find Snake tail
 
 <html><pre>
-
           \ /
            V
            |
