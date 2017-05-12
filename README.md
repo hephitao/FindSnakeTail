@@ -1,20 +1,8 @@
 # FindSnakeTail
 a simple web for find Snake tail
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<html>
+<pre>
 
           \ /
            V
@@ -49,3 +37,6 @@ a simple web for find Snake tail
   || \  / \  / \  / || 
    ||  \/   \/   \/  ||
     || \  / \  / \  / ||
+</pre>
+
+</html>
